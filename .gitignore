@@ -1,0 +1,17 @@
+# FileName: .gitignore
+
+# ignore password.xml 
+password.xml
+
+# ignore images/database.xml
+images/database.xml
+
+# ignore all in picx/*.jpg
+picx/*.jpg
+
+# ignore *.tmp
+*.tmp
+
+# gitignore
+# .gitignore
+
